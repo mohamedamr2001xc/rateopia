@@ -1,0 +1,11 @@
+cmake
+dlib
+face_recognition
+numpy
+opencv-python
+
+python 
+
+import hash 
+
+hash.sha_256("mohamed")
